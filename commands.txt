@@ -1,0 +1,5 @@
+For default scrolling Run:
+scrapy crawl groups
+
+For custom scrolling:
+scrapy crawl groups -a scroll=Number
